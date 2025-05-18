@@ -1,1 +1,1 @@
-Hello, this is a message from my cloned repository
+This is the description of my closed repository!
